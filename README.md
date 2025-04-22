@@ -33,16 +33,6 @@ This project combines a person detection model trained via Edge Impulse with a c
 
 ---
 
-## 🛠️ Getting Started
-
-To run this model on your own device:
-
-1. Go to the [Edge Impulse Live Project](https://studio.edgeimpulse.com/public/613078/live)
-2. Clone or fork this project into your own Edge Impulse account
-3. Connect your device via the Edge Impulse CLI
-4. Deploy the model to your device (either as an Arduino library, WebAssembly model, or firmware binary)
-
----
 
 ## 📓 About the Notebook
 
@@ -63,8 +53,9 @@ To run this project:
 2. Open `face_detection.ipynb` in Jupyter Notebook or Google Colab
 3. Run the Edge Impulse model on your device by:
    - Visiting the [Edge Impulse Project](https://studio.edgeimpulse.com/public/613078/live)
-   - Connecting your device using Edge Impulse CLI
-   - Deploying the model
+   - Clone or fork this project into your own Edge Impulse account
+   - To run this model click on "Launch in browser" button in dashborad section (below the QR code on right side).
+   - Or, Deploy the model to your device (either as an Arduino library, WebAssembly model, or firmware binary)
 
 ---
 
