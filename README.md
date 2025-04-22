@@ -4,7 +4,7 @@ This repository contains a **TinyML** project for real-time person and face dete
 
 🌐 **Live Project Link**: [View on Edge Impulse Studio](https://studio.edgeimpulse.com/public/613078/live)
 
-📓 **Notebook**: [`face_detection.ipynb`](./face_detection.ipynb)
+📓 **Notebook**: [`person_detection.ipynb`](./person_detection.ipynb)
 
 ---
 
